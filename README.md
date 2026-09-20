@@ -15,19 +15,19 @@
 
 ---
 
-Staff Product Security Leader in energy-tech. I secure the software factory — and, lately, the AI we're wiring into it.
+Staff Product Security Leader in energy-tech. I secure the software factory - and, lately, the AI we're wiring into it.
 
 ## About
 
 I work on "security by design" in the literal sense: threat models that change the architecture before code exists, pipelines that catch what reviews miss, and findings triaged with evidence instead of severity labels. Based in Al Khobar, working across complex energy-tech and digital products.
 
-These repositories are where I think in public. They follow one thread: end-to-end application security, extended to the newest part of the attack surface — the models, the context they consume, and the agents we're starting to trust with real work.
+These repositories are where I think in public. They follow one thread: end-to-end application security, extended to the newest part of the attack surface - the models, the context they consume, and the agents we're starting to trust with real work.
 
 ## Currently working on
 
-- **Securing AI systems.** LLM security and context engineering — prompt injection, tool misuse, poisoned context. Securing the "brain" and the "senses" of an agent so it doesn't become a high-speed vulnerability generator.
+- **Securing AI systems.** LLM security and context engineering - prompt injection, tool misuse, poisoned context. Securing the "brain" and the "senses" of an agent so it doesn't become a high-speed vulnerability generator.
 - **Agentic DevSecOps.** An SDLC where agents write, review, and ship code inside guardrails: sandboxed CI/CD, MCP servers, LangChain pipelines, autonomous agents with security consultants in the loop.
-- **The architect's path.** Moving from securing one product to designing systems where security is a property, not a phase — and writing down what I learn on the way.
+- **The architect's path.** Moving from securing one product to designing systems where security is a property, not a phase - and writing down what I learn on the way.
 
 ## Selected work
 
@@ -35,7 +35,7 @@ These repositories are where I think in public. They follow one thread: end-to-e
 End-to-end application security, from secure design by threat modeling to secure deployment. The reference I wish I'd had when I started: what to do at each SDLC stage, and why.
 
 **[Securing-Context-Engineering](https://github.com/Shad0w-Farm/Securing-Context-Engineering)**
-Context is the new attack surface. Securing what an AI reads, retrieves, and remembers — because a model with poisoned senses makes confident, wrong, and fast decisions.
+Context is the new attack surface. Securing what an AI reads, retrieves, and remembers - because a model with poisoned senses makes confident, wrong, and fast decisions.
 
 **[LLM-Security](https://github.com/Shad0w-Farm/LLM-Security)**
 Notes and patterns for securing large language models in production: injection, jailbreaks, data leakage, and the controls that actually hold up.
@@ -44,7 +44,7 @@ Notes and patterns for securing large language models in production: injection, 
 An agentic SDLC built end to end: DevSecOps pipeline, LangChain framework, MCP server integration, autonomous agent engineering, CI/CD sandboxing, Spring Boot microservices. The lab where the other repos get tested against reality.
 
 **[AI-Projects](https://github.com/Shad0w-Farm/AI-Projects)**
-Building AI projects hands-on — you can't secure what you've never built.
+Building AI projects hands-on - you can't secure what you've never built.
 
 **[Solution-Architect](https://github.com/Shad0w-Farm/Solution-Architect)**
 The working notebook of becoming a solution architect: patterns, trade-offs, and decisions with reasons attached.
@@ -54,11 +54,11 @@ The working notebook of becoming a solution architect: patterns, trade-offs, and
 | Layer                | Usually                                                        |
 | -------------------- | -------------------------------------------------------------- |
 | Design               | Threat modeling (STRIDE), abuse cases before user stories       |
-| Code & dependencies  | SAST, SCA, and secrets scanning wired into CI — not bolted on   |
+| Code & dependencies  | SAST, SCA, and secrets scanning wired into CI - not bolted on   |
 | Running applications | DAST and IAST in staging; WAF transparency checked before scans |
-| Cloud                | GCP — GKE, shared-VPC firewalling, Cloud Armor, IAM discipline  |
-| AI stack             | LangChain, MCP, OpenAI-compatible gateways                      |
-| Evidence             | Raw requests, log lines, probes — findings ship with proof      |
+| Cloud                | GCP - GKE, shared-VPC firewalling, Cloud Armor, IAM discipline  |
+| AI stack             | LangChain, MCP, OpenAI-compatible gateways, OpenClaw, OpenBot, Purple Llama, Hugging Face, LiteLLM, vLLM                     |
+| Evidence             | Raw requests, log lines, probes - findings ship with proof      |
 
 None of this is a religious position. It's the set of controls I've watched fail often enough to know how they fail.
 
