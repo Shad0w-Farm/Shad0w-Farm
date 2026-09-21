@@ -13,7 +13,7 @@
   <a href="https://medium.com/@nahklizaf"><img src="https://img.shields.io/badge/Medium-1F2328?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
-[![Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-AI_Safety_Playground-4493f8)](https://huggingface.co/spaces/<Lizaf>/Lizaf/shad0w-farm-playground)
+[![Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-AI_Safety_Playground-4493f8)](https://huggingface.co/spaces/Lizaf/shad0w-farm-playground)
 ---
 
 Staff Product Security Leader in energy-tech. I secure the software factory - and, lately, the AI we're wiring into it.
