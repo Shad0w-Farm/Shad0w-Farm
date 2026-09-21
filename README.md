@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-  [![Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-AI_Safety_Playground-4493f8)](https://huggingface.co/spaces/<Lizaf>/Lizaf/shad0w-farm-playground) />
   <a href="https://www.linkedin.com/in/fazil-khan-cyber"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@nahklizaf"><img src="https://img.shields.io/badge/Medium-1F2328?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
+[![Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-AI_Safety_Playground-4493f8)](https://huggingface.co/spaces/<Lizaf>/Lizaf/shad0w-farm-playground)
 ---
 
 Staff Product Security Leader in energy-tech. I secure the software factory - and, lately, the AI we're wiring into it.
