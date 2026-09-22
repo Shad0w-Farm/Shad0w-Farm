@@ -71,25 +71,31 @@ None of this is a religious position. It's the set of controls I've watched fail
 
 ## Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shad0w-Farm&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shad0w-Farm&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shad0w-Farm&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution streak" />
-</p>
-
-[![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shad0w-Farm&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Shad0w-Farm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad0w-Farm&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/Shad0w-Farm) />
-
-## Activity
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shad0w-Farm&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution streak" />
 
 ## Live projects
 
 [![Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-AI_Safety_Playground-4493f8)](https://huggingface.co/spaces/YOUR-HF-USERNAME/safety-playground)
 [![Self-Healing CI/CD](https://img.shields.io/badge/🔁_Live_Pipeline-Self--Healing_CI%2FCD-2ea043)](https://github.com/Shad0w-Farm/self-healing-cicd)
+
+## Languages & tools across my repos
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" alt="YAML" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
 ## Writing
 
