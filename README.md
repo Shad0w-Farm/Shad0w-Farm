@@ -14,6 +14,7 @@
 </p>
 
 [![Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-AI_Safety_Playground-4493f8)](https://huggingface.co/spaces/Lizaf/shad0w-farm-playground)
+[![Self-Healing CI/CD](https://img.shields.io/badge/🔁_Live_Pipeline-Self--Healing_CI%2FCD-2ea043)](https://github.com/Shad0w-Farm/self-healing-cicd)
 ---
 
 Staff Product Security Leader in energy-tech. I secure the software factory - and, lately, the AI we're wiring into it.
