@@ -82,6 +82,15 @@ None of this is a religious position. It's the set of controls I've watched fail
 [![Fazil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shad0w-Farm&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Shad0w-Farm)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shad0w-Farm&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/Shad0w-Farm) />
 
+## Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shad0w-Farm&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution streak" />
+
+## Live projects
+
+[![Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-AI_Safety_Playground-4493f8)](https://huggingface.co/spaces/YOUR-HF-USERNAME/safety-playground)
+[![Self-Healing CI/CD](https://img.shields.io/badge/🔁_Live_Pipeline-Self--Healing_CI%2FCD-2ea043)](https://github.com/Shad0w-Farm/self-healing-cicd)
+
 ## Writing
 
 I write on **[Medium](https://medium.com/@nahklizaf)**. Recurring subjects:
