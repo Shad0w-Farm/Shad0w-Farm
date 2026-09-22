@@ -72,7 +72,7 @@ None of this is a religious position. It's the set of controls I've watched fail
 
 ## Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shad0w-Farm&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shad0w-Farm&theme=github-dark-blue&hide_border=true&v=2" height="165" alt="Contribution streak" />
 
 ## Live projects
 
